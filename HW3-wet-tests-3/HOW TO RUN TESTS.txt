@@ -1,0 +1,8 @@
+Your directory should look like:
+./run_tests.sh
+./tests 		---------> This is the folder you got from us
+./part1		---------> This is the folder you submitted inside the zip
+./part2		---------> This is the folder you submitted inside the zip
+
+
+Now run run_tests.sh (maybe need to do chmod +x run_tests.sh before the first run)
